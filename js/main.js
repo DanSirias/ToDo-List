@@ -26,13 +26,13 @@ function PrintList(toDoContainer)
     new Date();
     mywindow.document.write('<html><head><title>' + document.title  + '</title>');
     mywindow.document.write('</head><body >');
-    mywindow.document.write('<center>');
+    mywindow.document.write('<left>');
     mywindow.document.write(document.getElementById('header','background-color=blue').innerHTML);
     
     mywindow.document.write('<h1>' + document.title  + '</h1>');
     mywindow.document.write(document.getElementById('toDoContainer').innerHTML);
     mywindow.document.write('<p>' + new Date()  + '</p>');
-    mywindow.document.write('</center>');
+    mywindow.document.write('</left>');
     mywindow.document.write('</body></html>');
 
     mywindow.document.close(); // necessary for IE >= 10
