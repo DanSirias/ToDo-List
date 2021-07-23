@@ -63,3 +63,16 @@ html, body {
     text-align: center;
     padding-bottom: 20px;
 }
+
+.imgLogo {
+    width: 20%;
+    text-align: center;
+}
+
+.footer {
+    background-color: #6D0017;
+    position:absolute;
+    width:100%;
+    bottom:0px;
+    text-align: center;
+}
