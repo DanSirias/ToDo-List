@@ -76,3 +76,8 @@ html, body {
     bottom:0px;
     text-align: center;
 }
+
+.rowReverse {
+    display: flex;
+    flex-direction: column-reverse;
+}
