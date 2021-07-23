@@ -73,8 +73,8 @@ html, body {
     background-color: #6D0017;
     clear: both;
     position: relative;
-    height: 100px;
-    margin-top: -100px;
-    text-align: center
+    height: 50px;
+    margin-top: -50px;
+    text-align: center;
 }
 
