@@ -6,6 +6,7 @@ html, body {
 .container {
     width: 100%;
     background-color: rgb(238, 236, 236);
+    border-radius: 5px;
 
 }
  
